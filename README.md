@@ -12,5 +12,10 @@
                                                                 
 
 
+### 🌎 My Languages 🌎
+
+- 🇺🇸 English:A1
+- 🇦🇫 Farsi/Dhari: A1
+- 🇮🇳 Hindi A2
 
 
