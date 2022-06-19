@@ -1,14 +1,16 @@
 
-![Optimized-41997523451_f2bc7176e2_o](https://user-images.githubusercontent.com/106895247/174461991-2b6b6b50-f144-43f5-ac8a-d9ec0af65a02.JPG)
+<img width="300px"  align="right" src="https://user-images.githubusercontent.com/106895247/174462326-0c2a064d-ac7d-4fe1-871f-4c5d229ca935.jpg"/>
+
+### 👋 Atah Ur Rahmam GitHub Profile 👋
+
 
 - 👋 Hi, I’m @Atahhabibi                               
 - 👀 I’m interested in creating website
 - 🌱 I’m currently learning git and github
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me habibiatah@gmail.com                      
+                                                                
 
-<!---
-Atahhabibi/Atahhabibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-                                                                         
+
+
+
