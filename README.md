@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @Atahhabibi                               
 - 👀 I’m interested in creating website
-- 🌱 I’m currently learning git and github
+- 🌱 I’m currently looking for new opportunities
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me habibiatah@gmail.com                      
                                                                 
