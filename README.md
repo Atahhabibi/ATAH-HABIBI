@@ -11,7 +11,7 @@
 - 🌱 I’m currently looking for new opportunities
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me habibiatah@gmail.com 
-- Follow me on Twitter   [ ](https://twitter.com/Atah_Ur_Rahman)                  
+- Follow me on Twitter https://twitter.com/Atah_Ur_Rahman                  
                                                                 
 
 ### 🌎 My Languages 🌎
