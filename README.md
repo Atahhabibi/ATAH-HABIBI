@@ -1,7 +1,5 @@
 ### 👋 Atah Ur Rahmam GitHub Profile 👋
-<img align="right" width="320px" src="https://user-images.githubusercontent.com/106895247/176677901-5329a465-d26e-4388-87a9-37fee6dc28f0.png"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atahhabibi&theme=dark&show_icons=true)
+<img align="right" width="320px" src="https://user-images.githubusercontent.com/106895247/176677901-5329a465-d26e-4388-87a9-37fee6dc28f0.png"/>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atahhabibi&theme=dark&show_icons=true)
 
 
 - 👋 Hi, I’m @Atahhabibi                               
