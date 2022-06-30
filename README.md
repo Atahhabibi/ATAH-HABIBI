@@ -15,7 +15,6 @@
 - 🇦🇫 Farsi/Dhari: A1
 - 🇮🇳 Hindi A2!
 
-### Follow Me
 
 
      <a href="#"><img padding="50%" align="right" src="https://user-images.githubusercontent.com/106895247/176663682-9b8896a6-c294-42fc-8c41-339ad1f49f0c.png" width="70px"></a>  <a href="https://twitter.com/Atah_Ur_Rahman" ><img align="right"  src="https://user-images.githubusercontent.com/106895247/176664172-722ef3f4-163a-4af8-8f4b-3b87fa62f143.png" width="70px"></a> 
