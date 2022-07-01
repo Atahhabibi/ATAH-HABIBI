@@ -19,5 +19,4 @@
 
 
 ## <samp> Github Stats </samp>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atahhabibi&theme=dark&show_icons=true)<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="195px" width="300" /><img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="right" height="195px" width="215" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atahhabibi&theme=dark&show_icons=true)<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="195px" width="300" />
