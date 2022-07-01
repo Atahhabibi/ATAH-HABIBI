@@ -4,7 +4,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm Murillo Pezzuol and a US-citizen, Afganistan 🇧🇷 and India 🇮🇹 , currently I'm a Software Engineer <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px" height="30px"> in US 🇬🇧 , passionate about solving problems with Websites and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Atah Ur Rahman and a US-citizen, Afganistan 🇧🇷 and India 🇮🇹 , currently I'm a Software Engineer <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px" height="30px"> in US 🇬🇧 , passionate about solving problems with Websites and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
