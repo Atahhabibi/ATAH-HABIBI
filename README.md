@@ -4,7 +4,7 @@
 
 ## <samp>Hello World!</samp>
 
-<img src="https://user-images.githubusercontent.com/106895247/176814243-3d48d63c-3c87-478a-bd0d-792dc9809f11.JPG" width="300" align="right"/><samp>I'm Atah Ur Rahman and a US-citizen🇺🇸, Afganistan🇦🇫  and India 🇮🇳 , currently I'm a Software Engineer in US 🇺🇸 , passionate about solving problems with Websites and creating different solutions.</samp>
+<img src="https://user-images.githubusercontent.com/106895247/176814243-3d48d63c-3c87-478a-bd0d-792dc9809f11.JPG" width="300" align="right"/><samp>I'm Atah Ur Rahman born Afganistan🇦🇫  and grow up India 🇮🇳 , currently I'm a Software Engineer , passionate about solving problems with Websites and creating different solutions.</samp>
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
