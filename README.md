@@ -9,19 +9,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- <a margin-right="10px"   href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176800172-9e9f9d3d-ea70-4908-8992-5ce5a8b7fe51.png   " alt="figma" width="60" height="60"/> </a> </a>  <a margin-left="10px"  href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176801170-714725f3-4206-49c4-b867-7b20860d036b.svg " alt="figma" width="55" height="55"/> </a>  <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176801888-bb171393-a155-4998-b1a6-ce5812f50142.png" alt="figma" width="55" height="55"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176802015-4f74e65b-ba18-41c6-ab74-6783cdc37a2d.svg" alt="figma" width="55" height="55"/> </a> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176803354-449e2a56-6dad-4920-86a6-5d89f541fc7a.svg" alt="figma" width="55" height="55"/> </a>
+ <a margin-right="10px"   href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176800172-9e9f9d3d-ea70-4908-8992-5ce5a8b7fe51.png   " alt="figma" width="60" height="60"/> </a>- </a>  <a margin-left="10px"  href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>- <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176801170-714725f3-4206-49c4-b867-7b20860d036b.svg " alt="figma" width="55" height="55"/> </a> - <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176802015-4f74e65b-ba18-41c6-ab74-6783cdc37a2d.svg" alt="figma" width="55" height="55"/> </a> -</a> <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176803354-449e2a56-6dad-4920-86a6-5d89f541fc7a.svg" alt="figma" width="55" height="55"/> </a>-<a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176802188-43d5397b-59bc-44d8-9cd6-e0903eb1bf4b.png " alt="figma" width="55" height="55"/> </a>-<a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176803738-8c1e3773-81fe-4abf-a982-aafa6a661c13.png   " alt="figma" width="55" height="55"/> </a>-<a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176803963-c5222225-2ba0-4445-80f7-30ef11dbf77a.png" alt="figma" width="55" height="55"/> </a>-<a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176801888-bb171393-a155-4998-b1a6-ce5812f50142.png" alt="figma" width="55" height="55"/> </a>- <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176802455-c49c74cb-acef-484b-b099-9b6ef2cbf491.png" alt="figma" width="55" height="55"/> </a>- <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176804648-58d06534-7f33-48d4-be5f-73a0e9820b69.png" alt="figma" width="55" height="55"/> </a>
+ 
 
 
+![pngwing com (1)]()
 
 
-![react](https://user-images.githubusercontent.com/106895247/176802188-43d5397b-59bc-44d8-9cd6-e0903eb1bf4b.png)
-
-![github](https://user-images.githubusercontent.com/106895247/176802315-fa4966ca-2fb8-4556-a93e-bb92286b3c5d.png)
-
-![graphql](https://user-images.githubusercontent.com/106895247/176802354-08ff712e-f012-4a2c-8de9-c1560e154a11.png)
-
-![firebase](https://user-images.githubusercontent.com/106895247/176802455-c49c74cb-acef-484b-b099-9b6ef2cbf491.png)
-![pngwing com](https://user-images.githubusercontent.com/106895247/176802989-97f4ac75-dc16-4379-8251-91584f0eb9ab.png)
 
 ###  My Languages
 
