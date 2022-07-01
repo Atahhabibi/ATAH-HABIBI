@@ -14,11 +14,13 @@
 
 
 
- ## <samp>Languages and Tools!</samp>
+ ## <samp>Languages and Tools</samp>
 <a margin-right="10px"   href=""> <img src="https://user-images.githubusercontent.com/106895247/176800172-9e9f9d3d-ea70-4908-8992-5ce5a8b7fe51.png   " alt="figma" width="60" height="60"/> </a> &nbsp; </a> &nbsp;<a margin-left="10px"  href=""> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> &nbsp; <a href=""> <img src="https://user-images.githubusercontent.com/106895247/176801170-714725f3-4206-49c4-b867-7b20860d036b.svg " width="55" height="55"/> </a> &nbsp; <a href=""> <img src="https://user-images.githubusercontent.com/106895247/176802015-4f74e65b-ba18-41c6-ab74-6783cdc37a2d.svg" alt="figma" width="55" height="55"/> </a> &nbsp;</a>&nbsp;<a href=""> <img src="https://user-images.githubusercontent.com/106895247/176803354-449e2a56-6dad-4920-86a6-5d89f541fc7a.svg" alt="figma" width="55" height="55"/> </a> &nbsp; <a href=""> <img src="https://user-images.githubusercontent.com/106895247/176802188-43d5397b-59bc-44d8-9cd6-e0903eb1bf4b.png " alt="figma" width="55" height="55"/> </a> &nbsp;<a href=""> <img src="https://user-images.githubusercontent.com/106895247/176803738-8c1e3773-81fe-4abf-a982-aafa6a661c13.png   " alt="figma" width="55" height="55"/> </a> &nbsp;<a href=""> <img src="https://user-images.githubusercontent.com/106895247/176803963-c5222225-2ba0-4445-80f7-30ef11dbf77a.png" alt="figma" width="55" height="55"/> </a>&nbsp; <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176801888-bb171393-a155-4998-b1a6-ce5812f50142.png" alt="figma" width="55" height="55"/> </a> &nbsp; <a href=""> <img src="https://user-images.githubusercontent.com/106895247/176807279-7853cda9-f670-4b7f-a91e-83bca163dd1a.png"  width="55" height="55"/> </a>&nbsp;<a href=""> <img src="https://user-images.githubusercontent.com/106895247/176808260-f80d00b0-d35a-4c55-ad96-3041a6f34471.png"  width="55" height="55"/> </a>
 
 
 ## <samp> Github Stats </samp>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atahhabibi&theme=dark&show_icons=true) <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="100px"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atahhabibi&theme=dark&show_icons=true)<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="200px" width="300" />
+
+
 
 
