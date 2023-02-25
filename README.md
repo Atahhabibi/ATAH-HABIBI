@@ -4,7 +4,7 @@
 
 ## <samp>How are you World!</samp>
 
-<img src="https://user-images.githubusercontent.com/106895247/176814243-3d48d63c-3c87-478a-bd0d-792dc9809f11.JPG" width="300" align="right"/><samp>I'm Atah Ur Rahman born in Afganistan🇦🇫  and grow up in India 🇮🇳 , currently I'm a Software Engineer , passionate about solving problems with Websites and creating different solutions.</samp>
+<img src="https://user-images.githubusercontent.com/106895247/221348521-ef3b1768-510d-4db1-8f8e-ef14c2bca6ad.jpg" width="300" align="right"/><samp>I'm Atah Ur Rahman born in Afganistan🇦🇫  and grow up in India 🇮🇳 , currently I'm a Software Engineer , passionate about solving problems with Websites and creating different solutions.</samp>
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
@@ -12,6 +12,7 @@
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - ⚽ &nbsp; <samp>Passionate about Volleyball.</samp>
  👨‍🎓 &nbsp; <samp>My academic life.[__here__](https://github.com/Atahhabibi/CERTIFICATES)</samp>
+
 
 
 
