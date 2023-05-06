@@ -6,7 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/106895247/221348521-ef3b1768-510d-4db1-8f8e-ef14c2bca6ad.jpg" width="300" align="right"/>
 <samp>I'm Atah Ur Rahman Habibi born in Afganistan and grow up in India , I have completed three years of my associate degree in computer science at grossmont and cuymaca college and got my associate degree and I am getting transfer to SDSU in coming august 2023. I'm a front-end web developer having great skill at fron-end programs such HTML, CSS , Javascript and React.js , passionate about solving problems with Websites and creating different solutions. Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things. I love being with my family and friends, they are everything to me.I love to travel and get to know new places and cultures.</samp> &nbsp; 💻 &nbsp; 🚀
-
+<samp></samp>
+<samp></samp>
+<samp></samp>
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - ⚽ &nbsp; <samp>Passionate about Volleyball.</samp>
