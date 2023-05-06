@@ -9,8 +9,8 @@
 
 - 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
-- ⚽ &nbsp; <samp>Passionate about Volleyball.</samp>
- 👨‍🎓 &nbsp; <samp>My academic life.[CHECK MY ASSOCIATE DEGREE AND OTHER CERTIFICATES](https://github.com/Atahhabibi/CERTIFICATES)</samp>
+- ⚽ &nbsp; <samp>Passionate about Volleyball.</samp><br />
+- 👨‍🎓 &nbsp; <samp>My academic life [CHECK MY ASSOCIATE DEGREE AND OTHER CERTIFICATES](https://github.com/Atahhabibi/CERTIFICATES)</samp>
 
 
 
