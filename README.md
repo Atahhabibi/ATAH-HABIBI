@@ -5,7 +5,7 @@
 ## <samp>How are you World!</samp>
 
 <img src="https://user-images.githubusercontent.com/106895247/221348521-ef3b1768-510d-4db1-8f8e-ef14c2bca6ad.jpg" width="300" align="right"/>
-<samp>I'm Atah Ur Rahman Habibi I have completed three years of my associate degree in computer science at grossmont and cuymaca college and got my associate degree and I am getting transfer to SDSU in coming august 2023. I'm a front-end web developer having great skill at fron-end programs such HTML, CSS , Javascript and React.js , passionate about solving problems with Websites and creating different solutions.Resourceful Front End Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML and CSS coding, design and extensions to meet organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging .</samp> &nbsp; 💻 &nbsp; 🚀<br /><br />
+<samp>I'm Atah Ur Rahman Habibi I have completed three years of my associate degree in computer science at grossmont and cuymaca college and got my associate degree and I am currently pursue my  bachlor in computer  science in san diego state university .</samp> &nbsp; 💻 &nbsp; 🚀<br /><br />
 
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - ⚽ &nbsp; <samp>Passionate about Volleyball.</samp><br />
