@@ -5,7 +5,7 @@
 ## <samp>How are you World!</samp>
 
 <img src="https://user-images.githubusercontent.com/106895247/221348521-ef3b1768-510d-4db1-8f8e-ef14c2bca6ad.jpg" width="300" align="right"/>
-<samp>I'm Atah Ur Rahman Habibi I have completed three years of my associate degree in computer science at grossmont and cuymaca college and got my associate degree and I am currently pursue my  bachlor in computer  science in san diego state university .</samp> &nbsp; 💻 &nbsp; 🚀<br /><br />
+<samp>I'm Atah Ur Rahman Habibi I have completed three years of my associate degree in computer science at grossmont and cuymaca college and got my associate degree and I am currently pursue my  bachlor in computer  science in san diego state university. Enthusiastic and motivated Full Stack Developer with a solid foundation in web development and a strong eagerness to learn and grow. Proficient in front-end technologies such as HTML, CSS, and JavaScript, as well as back-end technologies like Node.js and Express. Familiar with working with databases and RESTful APIs to create dynamic and interactive web applications. Adept at collaborating with senior developers and cross-functional teams to contribute to the design and implementation of software solutions. Possess a passion for staying up-to-date with the latest industry trends and emerging technologies. Eager to leverage skills and creativity to build intuitive and user-friendly web applications that make a positive impact on end-users..</samp> &nbsp; 💻 &nbsp; 🚀<br /><br />
 
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - ⚽ &nbsp; <samp>Passionate about Volleyball.</samp><br />
