@@ -19,7 +19,7 @@
 <!-- <a href="https://redux.js.org/"> <img src="https://user-images.githubusercontent.com/106895247/176803963-c5222225-2ba0-4445-80f7-30ef11dbf77a.png" alt="figma" width="55" height="55"/> </a>&nbsp;<a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://user-images.githubusercontent.com/106895247/176801888-bb171393-a155-4998-b1a6-ce5812f50142.png" alt="figma" width="55" height="55"/> </a> &nbsp; <a href="https://developers.google.com/search/docs/beginner/seo-starter-guide"> <img src="https://user-images.githubusercontent.com/106895247/176807279-7853cda9-f670-4b7f-a91e-83bca163dd1a.png"  width="55" height="55"/> </a>&nbsp;<a href="https://sass-lang.com/documentation/"> <img src="https://user-images.githubusercontent.com/106895247/176882442-890e16d3-ddd9-4611-aa69-354334c3b747.svg  "  width="55" height="55"/> </a>  &nbsp;<a href="https://firebase.google.com/docs"> <img src="https://user-images.githubusercontent.com/106895247/176884220-dd41c66b-8a50-4ed0-9f2f-879d70a634f2.png" width="55" height="55"/> </a> -->
 
 <!-- ## <samp> Github Stats </samp> -->
-<img src="https://github.com/Atahhabibi/atahhabibi/assets/106895247/199bc877-4f28-4a2e-b5cc-5effe294047e"  height="185px" width="500px" />
+<!--<img src="https://github.com/Atahhabibi/atahhabibi/assets/106895247/199bc877-4f28-4a2e-b5cc-5effe294047e"  height="185px" width="500px" />-->
 
 
 
